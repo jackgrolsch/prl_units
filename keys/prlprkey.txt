@@ -1,0 +1,10 @@
+Authority:  prlprkey
+Creation:   25/07/2015 15:30:26 (by jack\jackg)
+
+== PRIVATE KEY ==
+File: C:\Users\jackg\Desktop\prlprkey.biprivatekey
+MD5: 5A3E4AADA92459A89825FB2DFA5BA455
+== PUBLIC KEY ==
+File: C:\Users\jackg\Desktop\prlprkey.bikey
+MD5: AAF3CB5AF75263C52D5335E8E76DE0CA
+
